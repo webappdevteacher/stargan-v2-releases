@@ -1,0 +1,26 @@
+- Deploy mô hình lên Google Cloud Run
+  - https://cencla-txoier25qa-as.a.run.app
+
+
+REST API example
+
+curl https://cencla-txoier25qa-as.a.run.app
+
+curl --data-binary @storage/src/000026.png \
+     https://cencla-txoier25qa-as.a.run.app/10100 \
+     > expr/results/000026_old.jpg
+
+curl --data-binary @storage/src/000028.jpg \
+     https://cencla-txoier25qa-as.a.run.app/00100 \
+     > expr/results/000028_old.jpg
+
+- Available filter id:
+
+| Filter name  | fx_id |
+|--------------|-------|
+| Bald (Male)  | 11000 |
+| Age (Male)   | 10100 |
+| Female       | 10010 |
+| Beard        | 10000 |
+| Age (Female) | 00100 |
+| Male         | 00010 |

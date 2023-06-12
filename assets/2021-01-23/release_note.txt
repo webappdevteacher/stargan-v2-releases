@@ -1,0 +1,3 @@
+Update theme.
+Optimize loading image.
+Fix crash on low-end device

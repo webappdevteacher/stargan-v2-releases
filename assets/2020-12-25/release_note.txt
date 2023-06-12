@@ -1,0 +1,3 @@
+- Các chương luận văn:
+    - Chương 2: Bổ sung các phương pháp chuẩn hóa
+    - Chương 3: Cập nhật phần thuật toán nhận dạng khuôn mặt

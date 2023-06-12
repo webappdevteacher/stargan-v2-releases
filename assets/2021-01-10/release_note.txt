@@ -1,0 +1,11 @@
+- Các chương luận văn:
+    - Chương 2: 
+	- Thêm ví dụ cho phần chuẩn hóa
+	- Bổ sung mạng nơ-ron tích chập CNN
+	- Bổ sung hàm kích hoạt
+	- Bổ sung thuật toán tối ưu.
+    - Chương 3: 
+	- Bổ sung giải pháp căn chỉnh khuôn mặt.
+	- Bổ sung giải pháp phân loại giới tính.
+	- Bổ sung giải pháp xây dựng máy chủ.
+	- Bổ sung giải pháp xây dựng ứng dụng. 

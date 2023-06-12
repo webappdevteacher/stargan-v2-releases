@@ -1,0 +1,7 @@
+- Đề cương khóa luận v0.2:
+ * Bổ sung mục bản mẫu (Prototype)
+ * Bổ sung 3 hiệu ứng vào phần mục tiêu
+ * Bổ sung chức năng lưu và chia sẻ ảnh
+ * Bổ sung trong mục phạm vi đề tài: các hiệu ứng ảnh chỉ hỗ trợ biến đổi 1 chiều
+ * Cập nhật kế hoạch
+ 

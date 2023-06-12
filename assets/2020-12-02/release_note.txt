@@ -1,0 +1,11 @@
+- Fatasy Face v0.1.2:
+    - Lưu ảnh vào thư viện
+    - Chia sẻ ảnh lên các trang mạng xã hội
+    - Icon mới cho ứng dụng.
+
+- Các chương luận văn:
+    - Chương 1 (Hoàn thành)
+    - Chương 2 (Hoàn thành 1 phần)
+    - Chương 3 (Hoàn thành phần chính: mô hình StarGANv2 + mô hình nhận diện khuôn mặt dựa trên HOG + SVM)
+    - Chương 4 (Chưa hoàn thành)
+    - Chương 5 (Hoàn thành)

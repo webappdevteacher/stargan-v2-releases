@@ -1,0 +1,3 @@
+- Đề cương khóa luận v1.0:
+ * Cập nhật prototype
+ * Sửa các lỗi chính tả, sai tên đề tài 

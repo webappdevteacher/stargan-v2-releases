@@ -1,0 +1,19 @@
+- Fatasy Face v01:
+    - Chọn ảnh / Chụp ảnh
+    - Hiển thị giao diện theo giới tính
+    - Hỗ trợ 3 hiệu ứng: Male/Female, Age, Beard
+    - So sánh ảnh kết quả với ảnh gốc
+
+- Gender classification v01:
+    - Nhận vào ảnh có khuôn mặt đã được cắt, canh giữa.
+    - Trả về giới tính dự đoán đc
+
+- Preprocess face v01:
+    - Nhận vào một bức ảnh
+    - Xác định số lượng khuôn mặt, nếu khác 1 thì trả về lỗi
+    - Nếu bằng 1 thì trả về khuôn mặt đã được cắt, canh giữa.
+
+- Stargan v01:
+    - Đầu vào: * Một bức ảnh, đã được tiền xử lý qua Preprocess face
+               * Id của hiệu ứng
+    - Trả về ảnh với hiệu ứng tương ứng đã chọn.

@@ -1,0 +1,4 @@
+- Fatasy Face v0.1.1:
+    - Hiệu ứng Bald (dành riêng cho nam)
+    - Cập nhật địa chỉ Server của FaceEditor
+    - Chế độ nhà phát triển trong cài đặt

@@ -1,0 +1,10 @@
+- Deploy lên heroku:
+    - Gender classifier v0.1
+    - Preprocess face server v0.1
+
+- Tạo docker image:
+    - StarGAN-v2 v0.1
+
+REST API example
+- Gender classifier: `curl --data-binary @image_with_face.jpg https://hcmus-gender-classifier.herokuapp.com/`
+- Preprocess face: `curl --data-binary @image_with_face.jpg https://facealign.herokuapp.com/ > face_cropped.jpg`
